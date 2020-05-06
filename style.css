@@ -1,0 +1,23 @@
+body{
+  background-image: url("img/Stupa_Borobudur.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+div{
+  width: 550px;
+  height: 500px;
+  border: 2px solid red;
+  margin: 0 auto;
+  background-image: url("img/avocado.jpg");
+}
+
+div.repeat{
+  background-repeat: repeat-x;
+}
+
+p.justify{
+  color: blue;
+  text-align: justify;
+}
